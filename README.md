@@ -24,7 +24,7 @@ A special **Night Mode** can be activated to automatically set the ambiance:
 - **KNX Protocol** — Building automation standard
 
 ## [▶ Watch the demo]
-https://drive.google.com/drive/folders/1jNGu6Ba8GgCuyv-eUbbSvaj3j8sob7z3
+(https://drive.google.com/file/d/13zjVYExxsI2fm5ZFS4tdRGYBTdMO7lCr/view?usp=sharing)
 
 ## 📁 Project Structure
 smart-home-automation/
