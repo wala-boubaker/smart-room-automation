@@ -23,12 +23,10 @@ A special **Night Mode** can be activated to automatically set the ambiance:
 - **Loxone Config** — Logic programming & visualization
 - **KNX Protocol** — Building automation standard
 
-[demo video ]
-(https://drive.google.com/drive/folders/1jNGu6Ba8GgCuyv-eUbbSvaj3j8sob7z3)
+## [▶ Watch the demo](https://drive.google.com/drive/folders/1jNGu6Ba8GgCuyv-eUbbSvaj3j8sob7z3)
 
 ## 📁 Project Structure
 smart-home-automation/
-├── config/
 │   ├── project.loxone        # Loxone configuration file
 │   └── project.knxproj       # ETS 5 project file
 ├── screenshots/              # Project screenshots
