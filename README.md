@@ -1,4 +1,4 @@
-#  Smart Home Automation 
+#  Smart room Automation 
 
 A smart home automation project built with **ETS 5** (KNX) and **Loxone Config**,
 controlling lighting, shutters, and dimmers in a real room environment.
